@@ -1,2 +1,2 @@
 # WebRefresher
-A small tool that load a web page with configurable interval.
+A small tool that load a web page with configurable interval time.
