@@ -46,7 +46,7 @@
             this.txtUrl.Name = "txtUrl";
             this.txtUrl.Size = new System.Drawing.Size(477, 22);
             this.txtUrl.TabIndex = 0;
-            this.txtUrl.Text = "http://www.bing.com";
+            this.txtUrl.Text = "https://en.wikipedia.org/wiki/Glenn_Gould";
             // 
             // lUrl
             // 
